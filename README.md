@@ -1,4 +1,4 @@
-<h2>Hi there, I'm <a href='http://github.com/smadala64/'>Sridhar Madala, P</a></h2>
+<h2>Hi there, I'm <a href='http://github.com/smadala64/'>Sridhar Madala</a></h2>
 
 <br />
 
