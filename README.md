@@ -10,7 +10,7 @@ I'm a self-taught passionate Data Engineer from India 🇮🇳, based in USA �
 
 - 💼 Ex <b>Azure Data Engineer</b> at [MCG Health](https://www.mcg.com/)
 
-- 💼 Ex <b>Software Developer</b> at [Azure Data Engineer](https://www.tcs.com/)
+- 💼 Ex <b>Azure Data Engineer</b> at [TCS](https://www.tcs.com/)
 
 - ❤️ I love writing Javascript, TypeScript, and building fun experiments on type-level and canvas
 
