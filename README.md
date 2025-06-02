@@ -8,9 +8,9 @@ I'm a self-taught passionate Data Engineer from India 🇮🇳, based in USA �
 
 - 👨‍🎓 MS(Computer Science) at Binghamton University, 
 
-- 💼 Ex <b>Azure Data Engineer</b> at [MCG Health](https://www.mcg.com/)
+- 💼 Ex <b>Jr. Data Scientist</b> at [MCG Health](https://www.mcg.com/)
 
-- 💼 Ex <b>Azure Data Engineer</b> at [TCS](https://www.tcs.com/)
+- 💼 Ex <b>Machine Learning Engineer</b> at [TCS](https://www.tcs.com/)
 
 - ❤️ I love writing Javascript, TypeScript, and building fun experiments on type-level and canvas
 
